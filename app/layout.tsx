@@ -11,7 +11,7 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
   title: "Tyson Skakun Component Library",
-  description: "A collection of reusable components for Tyson Skakuns projects",
+  description: "Collection of reusable components for Tyson Skakuns projects",
 };
 
 export default function RootLayout({
